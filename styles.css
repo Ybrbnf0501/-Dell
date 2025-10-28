@@ -103,7 +103,7 @@ article {
 }
 
 .header__menu-item--logo {
-    background-image: url("assets/icons/Logo.svg");
+    background-image: url("assets/icons/logo.svg");
     background-repeat:no-repeat;
     width: 97px;
     height: 51px;
